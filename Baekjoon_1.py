@@ -1,0 +1,5 @@
+list_num = input()
+num_list = list_num.split()
+a=int(num_list[0])
+b=int(num_list[1])
+print(a+b)
